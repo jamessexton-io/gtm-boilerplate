@@ -28,5 +28,5 @@ export const environment = {
   // will format a number as '1,000.53'
   localCode: 'en-GB',
   // The ID of the container in Google Tag Manager, e.g. GTM-XXXXXXXX
-  gtmContainerId: 'GTM-XXXXXXXX',
+  gtmContainerId: 'GTM-M6VKNZ9L',
 };
